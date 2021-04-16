@@ -1,11 +1,13 @@
 body {
 	background-color: powderblue;
 }
-h1{
+
+h1 {
 	color: gold;
 	font-family: verdana;
 }
-h2{
+
+h2 {
 	color: navy;
 	font-family: courier;
 }
