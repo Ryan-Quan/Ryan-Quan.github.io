@@ -17,6 +17,9 @@ table, th, td {
   border: 1px solid black;
 }
 
+th.home, th.books, th.about {
+	width: 33%;
+}
 a:visited {
   color: blue;
   background-color: transparent;
