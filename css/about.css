@@ -17,7 +17,7 @@ table, th, td {
   border: 1px solid black;
 }
 
-th.home, th.books, th.about {
+th.home, th.books, th.about, th.projects {
 	width: 33%;
 }
 a:visited {
