@@ -21,12 +21,13 @@ table, th, td {
 
 th.home, th.books, th.about, th.projects {
 	width: 25%;
+	a:visited {
+	  color: red;
+	  background-color: transparent;
+	  text-decoration: none;
+	}
 }
-a:visited {
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
-}
+
 
 a:link {
   color: blue;
