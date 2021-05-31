@@ -4,11 +4,13 @@ body {
 
 h1 {
 	color: navy;
+	text-align: center;
 }
 
 h2 {
 	color: navy;
-}	
+	text-align: center;
+}
 h3 {
 	color: green;
 }
