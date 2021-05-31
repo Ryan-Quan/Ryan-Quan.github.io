@@ -26,6 +26,12 @@ th.home, th.books, th.about, th.projects {
   text-decoration: none;
 }
 
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 
 .fa {
   padding: 20px;
