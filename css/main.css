@@ -23,7 +23,7 @@ th.home, th.books, th.about, th.projects {
 	width: 25%;
 }
 a:visited {
-  color: blue;
+  color: red;
   background-color: transparent;
   text-decoration: none;
 }
