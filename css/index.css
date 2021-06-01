@@ -19,6 +19,7 @@ table, th, td {
   border: 1px solid black;
 }
 
+/* Headers in Table */
 th.home, th.books, th.about, th.projects {
 	width: 25%;
 	color: blue;
@@ -32,10 +33,12 @@ a:visited {
   text-decoration: none;
 }
 
+/* Div for Icons */
 .icons{
   text-align: center;
 }
 
+/* Font Awesome Icons */
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -52,12 +55,10 @@ a:visited {
 .fa-linkedin {
   background: #808080;
   color: white;
-	text-align: center;
 }
 .fa-github {
   background: #000000;
   color: white;
-	text-align: center;
 }
 
 
