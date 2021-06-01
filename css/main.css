@@ -32,6 +32,9 @@ a:visited {
   text-decoration: none;
 }
 
+.icons{
+  text-align: center;
+}
 
 .fa {
   padding: 20px;
@@ -56,3 +59,5 @@ a:visited {
   color: white;
 	text-align: center;
 }
+
+
