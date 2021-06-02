@@ -33,6 +33,10 @@ a:visited {
   text-decoration: none;
 }
 
+/* Div for intro */
+.intro {
+  font-family: Helvetica, sans-serif;
+}
 /* Div for Icons */
 .icons{
   text-align: center;
