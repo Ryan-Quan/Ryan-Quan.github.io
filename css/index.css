@@ -27,10 +27,16 @@ th.home, th.books, th.about, th.projects {
   text-decoration: none;
 }
 
-a:visited {
+/*a:visited {
   color: blue;
   background-color: transparent;
   text-decoration: none;
+} */
+
+/* Header Table*/
+.headers a:link, .headers a:visited, .headers a:hover, .headers a:active
+{
+    color: blue;   
 }
 
 /* Div for intro */
