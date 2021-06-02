@@ -21,14 +21,9 @@ table, th, td {
 th.home, th.books, th.about, th.projects {
 	width: 25%;
 }
-a:visited {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
-}
 
-a:link {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
+/* Header Table*/
+.headers a:link, .headers a:visited, .headers a:hover, .headers a:active
+{
+    color: blue;   
 }
