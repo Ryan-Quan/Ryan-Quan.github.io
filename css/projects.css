@@ -27,8 +27,35 @@ th.home, th.books, th.about, th.projects {
     color: blue;   
 }
 
-a:link {
-  color: blue;
-  background-color: transparent;
+/* Div for Icons */
+.icons{
+  text-align: center;
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+}
+
+/* Font Awesome Icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
   text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #808080;
+  color: white;
+}
+.fa-github {
+  background: #000000;
+  color: white;
 }
