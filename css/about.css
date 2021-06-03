@@ -28,6 +28,11 @@ th.home, th.books, th.about, th.projects {
     color: blue;   
 }
 
+/*Div for intro*/
+.desc{
+  text-align: center;
+}
+
 /* Div for Icons */
 .icons{
   text-align: center;
