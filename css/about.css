@@ -31,7 +31,7 @@ th.home, th.books, th.about, th.projects {
 /* Header Table*/
 .headers a:link, .headers a:visited, .headers a:hover, .headers a:active
 {
-    color: blue;
+    color: black;
 }
 
 /*Div for intro*/
