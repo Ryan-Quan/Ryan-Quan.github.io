@@ -36,12 +36,16 @@ th.home, th.books, th.about, th.projects {
 /* Header Table*/
 .headers a:link, .headers a:visited, .headers a:hover, .headers a:active
 {
-    color: blue;   
+    color: blue;
 }
 
 /* Div for intro */
 .intro {
   font-family: Helvetica, sans-serif;
+}
+
+.head{
+  text-align: center;
 }
 
 /* Div for Icons */
@@ -76,5 +80,3 @@ th.home, th.books, th.about, th.projects {
   background: #000000;
   color: white;
 }
-
-
