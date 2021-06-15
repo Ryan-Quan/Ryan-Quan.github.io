@@ -81,3 +81,8 @@ th.home, th.books, th.about, th.projects {
   background: #000000;
   color: white;
 }
+
+/* links */
+a {
+  text-decoration: none;
+}
