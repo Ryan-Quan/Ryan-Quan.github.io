@@ -4,7 +4,7 @@ html {
 
 body {
 	background-color: white;
-  min-height: 100vh;  
+  min-height: 100vh;
   font-family: Helvetica, sans-serif;
 }
 
@@ -14,7 +14,7 @@ h1 {
 
 h2 {
 	color: navy;
-}	
+}
 h3 {
 	color: green;
 }
@@ -30,7 +30,7 @@ th.home, th.books, th.about, th.projects {
 /* Header Table*/
 .headers a:link, .headers a:visited, .headers a:hover, .headers a:active
 {
-    color: blue;   
+    color: blue;
 }
 
 /* Div for Icons */
@@ -64,4 +64,9 @@ th.home, th.books, th.about, th.projects {
 .fa-github {
   background: #000000;
   color: white;
+}
+
+/* links */
+a {
+  text-decoration: none;
 }
