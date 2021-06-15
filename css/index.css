@@ -34,7 +34,7 @@ th.home, th.books, th.about, th.projects {
 
 
 /* Header Table*/
-.head a:link, .headers a:visited, .headers a:hover, .headers a:active
+.head a:link, .head a:visited, .head a:hover, .head a:active
 {
     color: black;
     text-align: center;
