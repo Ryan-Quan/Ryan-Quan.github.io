@@ -34,9 +34,10 @@ th.home, th.books, th.about, th.projects {
 
 
 /* Header Table*/
-.headers a:link, .headers a:visited, .headers a:hover, .headers a:active
+.head a:link, .headers a:visited, .headers a:hover, .headers a:active
 {
     color: blue;
+    text-align: center;
 }
 
 /* Div for intro */
