@@ -28,7 +28,7 @@ th.home, th.books, th.about, th.projects {
 	width: 25%;
 }
 
-.bookchart td, .bookchart th{
+.bookchart, .bookchart td, .bookchart th{
   border: 1px solid black;
   text-align: center;
 }
