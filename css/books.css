@@ -21,6 +21,7 @@ h3 {
 
 table, th, td {
   border: 1px solid black;
+  border-collapse: collapse;
 }
 
 th.home, th.books, th.about, th.projects {
