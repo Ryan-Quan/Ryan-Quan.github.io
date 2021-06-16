@@ -19,7 +19,7 @@ h3 {
 	color: green;
 }
 
-table, td, th {
+table {
   border: 1px solid black;
   border-collapse: collapse;
 }
@@ -27,6 +27,11 @@ table, td, th {
 th.home, th.books, th.about, th.projects {
 	width: 25%;
 }
+
+.bookchart {
+  border: 1px solid black;
+}
+
 
 /* Header Table*/
 .headers a:link, .headers a:visited, .headers a:hover, .headers a:active
