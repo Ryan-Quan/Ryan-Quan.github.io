@@ -41,6 +41,7 @@ th.home, th.books, th.about, th.projects {
 .intro {
   font-family: Helvetica, sans-serif;
   color: black;
+  text-align: center;
 }
 
 .head{
