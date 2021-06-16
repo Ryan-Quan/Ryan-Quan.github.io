@@ -24,8 +24,12 @@ table {
   border-collapse: collapse;
 }
 
+.headers{
+  text-align: center;
+}
+
 th.home, th.books, th.about, th.projects {
-	width: 25%;
+	width: 12.5%;
 }
 
 .bookchart, .bookchart td, .bookchart th{
@@ -38,11 +42,6 @@ th.home, th.books, th.about, th.projects {
 .headers a:link, .headers a:visited, .headers a:hover, .headers a:active
 {
     color: black;
-}
-
-.headers {
-  width: 50%;
-  text-align: center;
 }
 
 
