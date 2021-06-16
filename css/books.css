@@ -29,7 +29,7 @@ th.home, th.books, th.about, th.projects {
 }
 
 .bookchart {
-  border: 1px solid black;
+  border: none;
   text-align: center;
 }
 
