@@ -40,6 +40,12 @@ th.home, th.books, th.about, th.projects {
     color: black;
 }
 
+.headers {
+  width: 50%;
+  text-align: center;
+}
+
+
 /* Div for Icons */
 .icons{
   text-align: center;
