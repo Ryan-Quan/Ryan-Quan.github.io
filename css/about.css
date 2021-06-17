@@ -36,6 +36,10 @@ th.home, th.books, th.about, th.projects {
     color: black;
 }
 
+.headers {
+  width: 50%;
+}
+
 /*Div for intro*/
 .desc{
   text-align: center;
