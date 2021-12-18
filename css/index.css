@@ -51,7 +51,7 @@ th.home, th.books, th.about, th.projects {
 
 /* Div for intro */
 .intro {
-  font-family: Helvetica, sans-serif;
+  font-family: Andale Mono, monospace;
   color: black;
   text-align: center;
   margin-top: 50px;
