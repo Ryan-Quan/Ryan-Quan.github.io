@@ -16,6 +16,7 @@ html {
 body {
 	background-color: Gainsboro;
   min-height: 100vh;
+  font-family: Andale Mono, monospace;
 }
 
 h1 {
