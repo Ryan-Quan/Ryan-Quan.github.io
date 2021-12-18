@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Codystar:300&display=swap');
+:root {
+  --default-text: #fff;
+  --default-background: #000;
+
+  --color-primary: hsl(77, 92%, 71%);
+  --color-secondary: hsl(163, 32%, 43%);
+  --color-tertiary: hsl(0, 0%, 100%);
+  --color-quaternary: hsl(324, 86%, 53%);
+}
+
 html {
   min-height: 100%;
 }
@@ -5,7 +16,7 @@ html {
 body {
 	background-color: Gainsboro;
   min-height: 100vh;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Codystar', sans-serif;
 }
 
 h1 {
