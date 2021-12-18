@@ -16,7 +16,7 @@ html {
 body {
 	background-color: Gainsboro;
   min-height: 100vh;
-  
+  font-family: Andale Mono, monospace;
 }
 
 h1 {
@@ -25,6 +25,7 @@ h1 {
 
 h2 {
 	color: navy;
+  text-align: center;
 }
 h3 {
 	color: green;
