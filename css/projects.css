@@ -16,7 +16,7 @@ html {
 body {
 	background-color: Gainsboro;
   min-height: 100vh;
-  font-family: 'Codystar', sans-serif;
+  
 }
 
 h1 {
@@ -44,6 +44,9 @@ th.home, th.books, th.about, th.projects {
 	width: 25%;
 }
 
+.headers{
+  font-family: 'Codystar', sans-serif;
+}
 /* Header Table*/
 .headers a:link, .headers a:visited, .headers a:hover, .headers a:active
 {

@@ -16,7 +16,6 @@ html {
 body {
 	background-color: Gainsboro;
   min-height: 100vh;
-  font-family: 'Codystar', sans-serif;
 }
 
 h1 {
@@ -38,6 +37,7 @@ table {
 
 .headers{
   text-align: center;
+  font-family: 'Codystar', sans-serif;
 }
 
 th.home, th.books, th.about, th.projects {
