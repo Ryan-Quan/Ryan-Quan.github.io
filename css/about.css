@@ -35,11 +35,12 @@ table {
   border: 1px solid black;
   border-collapse: collapse;
   border:none;
+  margin-top: 25px;
 }
 
 th.home, th.books, th.about, th.projects {
 	width: 25%;
-}
+} 
 
 
 /* Header Table*/
