@@ -36,14 +36,16 @@ table {
   margin-top: 25px;
 }
 
+th.home, th.books, th.about, th.projects {
+	width: 12.5%;
+}
+
 .headers{
   text-align: center;
   font-family: 'Codystar', sans-serif;
 }
 
-th.home, th.books, th.about, th.projects {
-	width: 12.5%;
-}
+
 
 .bookchart, .bookchart td, .bookchart th{
   border: 1px solid black;
