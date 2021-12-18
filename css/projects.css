@@ -35,6 +35,10 @@ table {
   border-collapse:  collapse;
 }
 
+tr{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 th.home, th.books, th.about, th.projects {
 	width: 25%;
 }
