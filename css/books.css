@@ -43,6 +43,11 @@ th.home, th.books, th.about, th.projects {
 	width: 12.5%;
 }
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .headers{
   text-align: center;
   font-family: 'Codystar', sans-serif;
@@ -51,8 +56,9 @@ th.home, th.books, th.about, th.projects {
 
 
 .bookchart, .bookchart td, .bookchart th{
-  border: 1px solid black;
+  border: none;
   text-align: center;
+
 }
 
 
