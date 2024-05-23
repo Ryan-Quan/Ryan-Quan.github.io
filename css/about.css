@@ -43,6 +43,10 @@ th.home, th.books, th.about, th.projects {
 	width: 25%;
 } 
 
+.start{
+  margin-top: 1em;
+  padding-top: 1em;
+}
 
 /* Header Table*/
 .headers a:link, .headers a:visited, .headers a:hover, .headers a:active
@@ -51,8 +55,11 @@ th.home, th.books, th.about, th.projects {
 }
 
 .headers {
-  width: 50%;
+  text-align: center;
   font-family: 'Codystar', sans-serif;
+  position: fixed;
+  top:0;
+  width: 100%;
 }
 
 /*Div for intro*/

@@ -37,6 +37,7 @@ table {
   border-collapse: collapse;
   border:none;
   margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 th.home, th.books, th.about, th.projects {
@@ -51,14 +52,25 @@ th.home, th.books, th.about, th.projects {
 .headers{
   text-align: center;
   font-family: 'Codystar', sans-serif;
+  position: fixed;
+  top:0;
+  width: 100%;
 }
 
+.start{
+  margin-top: 1em;
+  padding-top: 1em;
+}
 
 
 .bookchart, .bookchart td, .bookchart th{
   border: none;
   text-align: center;
 
+}
+
+.booklist{
+  text-align: left;
 }
 
 
